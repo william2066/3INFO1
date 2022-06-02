@@ -1,0 +1,64 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fff;
+}
+
+
+.container{
+    
+}
+
+
+.cabecalho{
+    font-family: Verdana;
+
+}
+
+.conteudo{
+    text-align: center;
+    padding: 1rem;
+
+}
+
+.logo{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.formularios{
+    display: flex;
+    text-align: center;
+    padding: 1em;
+    justify-content: center;
+        
+
+}
+
+select{
+ text-align: center;
+    
+}
+
+option{
+    text-align: center;
+}
+
+div{
+    margin: 1em;
+    padding: 10px;
+}
+
+
+.forminput{
+    display: flex;
+}
+
+.rodape{
+    text-align: center;
+    font-family: verdana;
+    text-shadow: 2px 2px 2px #000;
+    color: #fff;
+    background-color: #191970;
+}
